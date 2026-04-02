@@ -1,14 +1,13 @@
 # Data Science Internship Projects
 
-This repository contains multiple data science projects completed during my internship.
-
+This repository showcases a collection of end-to-end data science projects covering exploratory data analysis, classification, and regression techniques applied to real-world datasets.
 ## 📊 Projects
 
-- Iris Dataset Analysis (EDA)
-- Credit Risk Prediction (Classification)
-- Customer Churn Prediction (Machine Learning)
-- Insurance Cost Prediction (Regression)
-- Personal Loan Acceptance Prediction
+- [Iris Dataset Analysis (EDA)](./Task-1-Iris-EDA)
+- [Credit Risk Prediction](./Task-2-Credit-Risk)
+- [Customer Churn Prediction](./Task-3-Customer-Churn)
+- [Insurance Cost Prediction](./Task-4-Insurance-Regression)
+- [Personal Loan Acceptance Prediction](./Task-5-Loan-Acceptance)
 
 ## 🛠 Tools
 - Python
@@ -21,3 +20,5 @@ This repository contains multiple data science projects completed during my inte
 - Machine Learning
 - Model Evaluation
 - Business Insights
+
+These projects demonstrate my ability to solve real-world problems using data-driven approaches and machine learning techniques.
